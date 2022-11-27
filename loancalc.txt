@@ -1,0 +1,83 @@
+Annual Fee: 9250 
+Placement Fee: 1850 
+Annual Maintenance: 4054
+Taught Years: 3
+Placement Year: 0
+Start Date: 10/2018
+Graduation Date: 10/2021
+First Payment Date: 04/2022
+Taught Fees: 27750
+Placement Fees: 0
+Maintenance Loan: 12162
+Total Loan: 39912
+
+Initial Salary: 20000
+Final Salary: 63022
+Total Loan: 39912
+Last Payment Date: 3/2052
+Closing Balance: 114136
+Total Interest: 107710
+Total Paid: 147622
+
+
+Initial Salary: 25000
+Final Salary: 78776
+Total Loan: 39912
+Last Payment Date: 3/2052
+Closing Balance: 93689
+Total Interest: 110943
+Total Paid: 150855
+
+
+Initial Salary: 30000
+Final Salary: 94535
+Total Loan: 39912
+Last Payment Date: 3/2052
+Closing Balance: 58859
+Total Interest: 101306
+Total Paid: 141218
+
+
+Initial Salary: 35000
+Final Salary: 110290
+Total Loan: 39912
+Last Payment Date: 3/2052
+Closing Balance: 14169
+Total Interest: 81916
+Total Paid: 121828
+
+
+Initial Salary: 40000
+Final Salary: 108159
+Total Loan: 39912
+Last Payment Date: 2/2048
+Closing Balance: 0
+Total Interest: 59263
+Total Paid: 99175
+
+
+Initial Salary: 45000
+Final Salary: 100491
+Total Loan: 39912
+Last Payment Date: 6/2043
+Closing Balance: 0
+Total Interest: 43674
+Total Paid: 83586
+
+
+Initial Salary: 50000
+Final Salary: 95811
+Total Loan: 39912
+Last Payment Date: 12/2039
+Closing Balance: 0
+Total Interest: 33172
+Total Paid: 73084
+
+
+Initial Salary: 55000
+Final Salary: 97635
+Total Loan: 39912
+Last Payment Date: 5/2037
+Closing Balance: 0
+Total Interest: 26512
+Total Paid: 66424
